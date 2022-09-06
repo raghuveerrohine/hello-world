@@ -37,5 +37,10 @@
 
    <h1>Deployment automated using docker container successfully<h1>
 <h1>Deployment automated using ansible tool and finaLLY automated till ansible.<h1>
+
 		<h1>hello all<h1>
+
+
+	<h1>Build triggered automatically by cron job<h1>
+
 </form>
