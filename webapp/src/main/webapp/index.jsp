@@ -50,6 +50,6 @@
 											<h1>checking whether poll scm is working or not<h1
 													<h1>hi checking image push to docker hub <h1>
 														<h1>checking dockerhub pull<h1>  
-
+																<h1>cheking the ansible push<h1>
 																<h1>checking the automated deployment<h1>											                                                                                         
 </form>
